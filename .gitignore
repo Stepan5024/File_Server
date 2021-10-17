@@ -54,3 +54,11 @@ File Server/Storage emulator/task.html
 *.bin
 *.lock
 *.class
+*.css
+*.js
+*.idx
+*.xml
+File Server/task/build/tmp/test/jar_extract_15784334240729216484_tmp
+File Server/task/build/tmp/test/jar_extract_1819116930500699802_tmp
+File Server/task/build/tmp/test/jar_extract_7248815800745340249_tmp
+File Server/task/build/tmp/test/jar_extract_7875075953224128119_tmp
