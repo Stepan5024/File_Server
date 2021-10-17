@@ -48,3 +48,9 @@ m4/lt~obsolete.m4
 .idea/workspace.xml
 # Игнорировать все файлы в каталоге build/
 .idea/
+File Server/Storage emulator/task.html
+*.yaml
+*.html
+*.bin
+*.lock
+*.class
