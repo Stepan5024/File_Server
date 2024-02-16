@@ -26,6 +26,7 @@ public class Main {
                 if (temp[0].compareTo("add") == 0) {
                     String[] temp2 = temp[1].split("");
 
+
                     try {
                         int index = Integer.parseInt(s1.replaceAll("\\D+",""));
 
